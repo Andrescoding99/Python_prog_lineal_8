@@ -1,0 +1,21 @@
+For 
+
+Esta hecho para desarrollar la logica de programacion y varios escenarios.
+Porque cuadno yo llego a manejar uan base de datos el for se queda obsoleto, y ahi es
+donde vien ele for each.
+
+For es como empezar a gatear y caminar y foreach es como correr.
+
+La estructura de while es igual a la de otros lenguajes.
+
+Do while no existe en python.
+
+Cuando la variable va a manejar una estrcutura ciclica, su nombre cambia a iterador.
+
+En for no se se peude usar operadores logicos, con while sí.
+
+For se encarga de reiniciar la variable y manipular su incremento.
+
+For incrementa de manera automatica el iterador pero while no lo hace
+
+For solo peude incrementar de 1 en 1, pero no mayor a 1.
